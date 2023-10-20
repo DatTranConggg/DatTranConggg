@@ -7,7 +7,8 @@
 
 - 💬 Ask me about <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> , <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
 
-<h3 align="left">Connect with me: [Linkedin](https://www.linkedin.com/in/dat-tran-dtc21012000/) </h3>
+### Connect with me: [LinkedIn](https://www.linkedin.com/in/dat-tran-dtc21012000/)
+
 <p align="left">
 </p>
 
