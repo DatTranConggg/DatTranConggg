@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dattranconggg" alt="dattranconggg" /></a> </p>
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Go** , **React**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Java** , **SpringBoot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
