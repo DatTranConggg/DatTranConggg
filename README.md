@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dattranconggg&label=Profile%20views&color=0e75b6&style=flat" alt="dattranconggg" /> </p>
 
-- 🌱 I’m currently learning <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> , **React**
+- 🌱 I’m currently learning <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> , <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 
-- 💬 Ask me about **Java** , **SpringBoot**
+- 💬 Ask me about <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> , <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: [Linkedin](https://www.linkedin.com/in/dat-tran-dtc21012000/) </h3>
 <p align="left">
 </p>
 
