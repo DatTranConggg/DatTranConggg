@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dattranconggg&label=Profile%20views&color=0e75b6&style=flat" alt="dattranconggg" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dattranconggg" alt="dattranconggg" /></a> </p>
-
 - 🌱 I’m currently learning <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> , **React**
 
 - 💬 Ask me about **Java** , **SpringBoot**
