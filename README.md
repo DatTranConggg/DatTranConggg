@@ -25,9 +25,7 @@
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/dat-tran-dtc21012000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dat-tran-dtc21012000" height="30" width="40" /></a>
-
-<a href="https://leetcode.com/trancongdat21012000/" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_Cup.png" alt="dat-tran-dtc21012000" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dat-tran-dtc21012000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dat-tran-dtc21012000" height="30" width="40" /></a> <a href="https://leetcode.com/trancongdat21012000/" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_Cup.png" alt="dat-tran-dtc21012000" height="30" width="40" /></a>
 
 
 
