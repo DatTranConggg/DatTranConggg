@@ -14,29 +14,12 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p>
+- 🔭 I’m currently working on <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
 
 
-
-- 🔭 I’m currently working on **Vexa Web App**
-
-
-
-- 🌱 I’m currently learning **DevOps**
-
-
-
-- 💬 Ask me about **Android , MEARN**
-
-
-
-- 📫 How to reach me **rishavchanda0@gmail.com**
-
-
+- 💬 I'm currently learning on <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 
 - ⚡ Fun fact **I am Funny**
-
-
 
 <h3 align="left">Connect with me:</h3>
 
